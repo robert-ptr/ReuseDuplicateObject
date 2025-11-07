@@ -1,4 +1,6 @@
-﻿namespace ReuseDuplicates;
+﻿using System;
+
+namespace ReuseDuplicates;
 
 public class Program
 {
